@@ -6,11 +6,20 @@
   <EmailDisplayName>MeticulonTraining1</EmailDisplayName>
   <EmailAddress />
   <IsDefault>false</IsDefault>
-  <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADVSURBVHhe7dAxAQAwEAOh+jedWvjbQQJvnMkKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyzrYPLcPBnTODq+8AAAAASUVORK5CYII=</HeadShotBitmap>
+  <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAANVJREFUeF7t0DEBADAQA6H6N51a+NtBAm+cyQpkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbLOtg8tw8GdM4Or7wAAAABJRU5ErkJggg==</HeadShotBitmap>
   <Comments />
   <MergeConflicts />
   <Follows />
-  <FileVersionCommitExtensions />
+  <FileVersionCommitExtensions>
+    <FileVersionCommitExtension>
+      <DocumentPath>C:\Users\Admin\Documents\SnirtLiz3\Example1.docx</DocumentPath>
+      <CommitComment />
+      <CommitDateTime>2014-03-25T09:24:36</CommitDateTime>
+      <CommitId>c8f4a92595037647c5657c6dafc3b202670876e4</CommitId>
+      <DocumentThumbnailBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADVSURBVHhe7dAxAQAwEAOh+jedWvjbQQJvnMkKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyzrYPLcPBnTODq+8AAAAASUVORK5CYII=</DocumentThumbnailBitmap>
+      <UserId>b5deb907-e842-4e09-bc84-2a76f34607ad</UserId>
+    </FileVersionCommitExtension>
+  </FileVersionCommitExtensions>
   <CurrentFilterCriteria>
     <Following>false</Following>
     <Collaborators />
