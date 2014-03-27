@@ -29,6 +29,13 @@
       <Vote>1</Vote>
       <CommitId>c8f4a92595037647c5657c6dafc3b202670876e4</CommitId>
     </Comment>
+    <Comment>
+      <DocumentPath>Example1.docx</DocumentPath>
+      <Text />
+      <CommentDateTime>2014-03-27T10:01:33.769533-07:00</CommentDateTime>
+      <Vote>1</Vote>
+      <CommitId>f7bb54c15890f6b5b62aecba563a667cdf66c8cc</CommitId>
+    </Comment>
   </Comments>
   <MergeConflicts />
   <Follows />
