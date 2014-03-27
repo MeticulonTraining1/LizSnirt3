@@ -6,45 +6,17 @@
   <EmailDisplayName>MeticulonTraining1</EmailDisplayName>
   <EmailAddress />
   <IsDefault>false</IsDefault>
-  <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOvgAADr4B6kKxwAAAANVJREFUeF7t0DEBADAQA6H6N51a+NtBAm+cyQpkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbLOtg8tw8GdM4Or7wAAAABJRU5ErkJggg==</HeadShotBitmap>
-  <Comments>
-    <Comment>
-      <DocumentPath>Example1.docx</DocumentPath>
-      <Text>Add another sentence to Example 1</Text>
-      <CommentDateTime>2014-03-27T09:44:57.6963257-07:00</CommentDateTime>
-      <Vote>0</Vote>
-      <CommitId>9ab65c706bbe0e2d65d30d9d1755606caa0f0db8</CommitId>
-    </Comment>
-  </Comments>
+  <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOvwAADr8BOAVTJAAAANVJREFUeF7t0DEBADAQA6H6N51a+NtBAm+cyQpkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbLOtg8tw8GdM4Or7wAAAABJRU5ErkJggg==</HeadShotBitmap>
+  <Comments />
   <MergeConflicts />
-  <Follows>
-    <Follow>
-      <DocumentPath>Example1.docx</DocumentPath>
-    </Follow>
-  </Follows>
+  <Follows />
   <FileVersionCommitExtensions>
     <FileVersionCommitExtension>
       <DocumentPath>C:\Users\Admin\Documents\SnirtLiz3\Example1.docx</DocumentPath>
       <CommitComment />
       <CommitDateTime>2014-03-25T09:24:36</CommitDateTime>
       <CommitId>c8f4a92595037647c5657c6dafc3b202670876e4</CommitId>
-      <DocumentThumbnailBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOvwAADr8BOAVTJAAAANVJREFUeF7t0DEBADAQA6H6N51a+NtBAm+cyQpkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbLOtg8tw8GdM4Or7wAAAABJRU5ErkJggg==</DocumentThumbnailBitmap>
-      <UserId>b5deb907-e842-4e09-bc84-2a76f34607ad</UserId>
-    </FileVersionCommitExtension>
-    <FileVersionCommitExtension>
-      <DocumentPath>Example1.docx</DocumentPath>
-      <CommitComment>Added a sentence to Example 1</CommitComment>
-      <CommitDateTime>2014-03-27T09:03:46</CommitDateTime>
-      <CommitId>9ab65c706bbe0e2d65d30d9d1755606caa0f0db8</CommitId>
-      <DocumentThumbnailBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAAahJREFUeF7t1sFKQkEcRnHf/32ENqVXuahlhlkQkkFE4MbS0Gua+GXiohcQzuL84MKdgf/qMMPUIpRjkKqqjov/qtUy+9N/9vv87HaZzxenDZ3LIcg+7eIqzWaR0eNTLur1lGUng343RauV4XCUotHIZdHOdDo9jelcvLJgDAJjEBiDwNT+XlAvk0m+Fl/53myyXleZf84P38dhvc1qucxsNstmuz2N6JyOJ+R5PD68qq7T6fXzcH+XbtnN+9trOjeD9MoijVaZ28HdcUDn5ZUFYxAYg8AYBMYgMAaBMQiMQWAMAmMQGIPAGATGIDAGgTEIjEFgDAJjEBiDwBgExiAwBoExCIxBYAwCYxAYg8AYBMYgMAaBMQiMQWAMAmMQGIPAGATGIDAGgTEIjEFgDAJjEBiDwBgExiAwBoExCIxBYAwCYxAYg8AYBMYgMAaBMQiMQWAMAmMQGIPAGATGIDAGgTEIjEFgDAJjEBiDwBgExiAwBoExCIxBYAwCYxAYg8AYBMYgMAaBMQiMQWAMAmMQGIPAGATGIDAGgTEIjEFgDAJjEBiDoCS/RGOd/bVQKAgAAAAASUVORK5CYII=</DocumentThumbnailBitmap>
-      <UserId>b5deb907-e842-4e09-bc84-2a76f34607ad</UserId>
-    </FileVersionCommitExtension>
-    <FileVersionCommitExtension>
-      <DocumentPath>Example1.docx</DocumentPath>
-      <CommitComment>Added a third sentence to Example 1</CommitComment>
-      <CommitDateTime>2014-03-27T09:45:35</CommitDateTime>
-      <CommitId>f7bb54c15890f6b5b62aecba563a667cdf66c8cc</CommitId>
-      <DocumentThumbnailBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH2SURBVHhe7djdShtBAEdx3/99hN60cSMhsbUJmkSDqPQjX7qNjRJjYyX/bpdc9AVSzsX5wcLMwtzsYYZhDyKUOsh6va4n/1o/r7LdjbPd5vfbW5bLx90L7UsVZJvj4kOOjor0h6O8OzxMq9VO97STotnM2Vk/RaOR98Vx5vP5bpn2xSMLxiAwBoExCMzB3xvU7c1Nnh6f8muzycvLOsufy+p5qOaveV6tslgssnl93S3RPtU75PrqqrpVfUz75DSD8146rU4m37+m/ambk1aRRrOVz91evUD75ZEFYxAYg8AYBKa+ZQ36/cxms5SLh5RlmfL+rp6PRqPM5veZTqe5K3/slmif6h0yGY8zuhhmMLysPv4k571uBoOLfBtP8+X2uhpfZjL1P9b/4JEFYxAYg8AYBMYgMAaBMQiMQWAMAmMQGIPAGATGIDAGgTEIjEFgDAJjEBiDwBgExiAwBoExCIxBYAwCYxAYg8AYBMYgMAaBMQiMQWAMAmMQGIPAGATGIDAGgTEIjEFgDAJjEBiDwBgExiAwBoExCIxBYAwCYxAYg8AYBMYgMAaBMQiMQWAMAmMQGIPAGATGIDAGgTEIjEFgDAJjEBiDwBgExiAwBoExCIxBYAwCYxAYg8AYBMYgMAaBMQiMQWAMAmMQGIPAGATGICjJHwfGltmQK6NoAAAAAElFTkSuQmCC</DocumentThumbnailBitmap>
+      <DocumentThumbnailBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwAAADsABataJCQAAANVJREFUeF7t0DEBADAQA6H6N51a+NtBAm+cyQpkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbLOtg8tw8GdM4Or7wAAAABJRU5ErkJggg==</DocumentThumbnailBitmap>
       <UserId>b5deb907-e842-4e09-bc84-2a76f34607ad</UserId>
     </FileVersionCommitExtension>
   </FileVersionCommitExtensions>
